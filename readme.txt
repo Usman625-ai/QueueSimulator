@@ -36,3 +36,12 @@ Executable/MM1QueueSimulator.exe
 * Diagrams → Use case diagram
 * Executable → runnable file
 * Screenshots → output & code
+
+## Group 2 — Members
+| S.No | Name | EB Number |
+|------|------|-----------|
+| 1 | Muhammad Bilal Ul Haq | EB-25210006052 |
+| 2 | Usman Hussain | EB-25210006042 |
+| 3 | Messam Hussain Jafferi | EB-25210006038 |
+| 4 | Maaz | EB-25210006036 |
+| 5 | Umer Hashmi | EB-25210006105 |
